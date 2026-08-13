@@ -21,7 +21,7 @@ The analysis constructs 116 sub-area institutional indices from the World Bank D
 - `output/replication_diagnostics/`  
   Detailed family-by-index rankings, adjacent-cut diagnostics, clustering diagnostics, coverage checks, and supplementary analyses.
 
-- `replication_output/sessionInfo.txt`  
+- `sessionInfo.txt`  
   R and package-version information for the final analysis environment.
 
 ## Data
