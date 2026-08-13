@@ -1,0 +1,10 @@
+Income configuration,Top-ranked non-baseline family,Family rows,Coefficient (SE) vs baseline,Percent difference vs baseline,Model sample sufficient,Family cell >= 200,Estimate stable,Reportable estimate
+High -> high,Services / competition / mobility,346,1.730 (0.602),464.3%,TRUE,TRUE,TRUE,TRUE
+High -> low,Services-investment / capital mobility,22,4.023 (1.460),5 487.7%,FALSE,FALSE,TRUE,FALSE
+High -> middle,Trade facilitation / regulatory governance,315,0.881 (0.247),141.4%,TRUE,TRUE,TRUE,TRUE
+Low -> high,Trade facilitation / regulatory governance,71,6.095 (1736218.810),44 273.4%,FALSE,FALSE,FALSE,FALSE
+Low -> low,Services / competition / mobility,3220,0.425 (0.483),53.0%,TRUE,TRUE,TRUE,TRUE
+Low -> middle,Services / competition / mobility,1541,0.885 (0.715),142.2%,TRUE,TRUE,TRUE,TRUE
+Middle -> high,Public procurement,224,0.896 (0.578),145.0%,TRUE,TRUE,TRUE,TRUE
+Middle -> low,Goods-trade administration,657,2.508 (0.675),1 128.4%,TRUE,TRUE,TRUE,TRUE
+Middle -> middle,Trade facilitation / regulatory governance,3138,1.491 (0.285),344.0%,TRUE,TRUE,TRUE,TRUE

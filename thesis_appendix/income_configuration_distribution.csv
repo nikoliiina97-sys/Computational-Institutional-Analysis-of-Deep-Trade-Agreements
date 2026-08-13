@@ -1,0 +1,10 @@
+Income configuration,Dyad-years,Directed dyads,Zero-trade share,Architecture families
+High -> high,22770,1722,6.0%,8
+High -> middle,24759,2256,3.7%,9
+High -> low,2333,294,9.9%,6
+Middle -> high,24759,2256,4.8%,9
+Middle -> middle,39213,3481,11.0%,7
+Middle -> low,13724,1465,22.5%,6
+Low -> high,2333,294,9.9%,6
+Low -> middle,13724,1465,22.9%,6
+Low -> low,11524,1130,29.1%,5

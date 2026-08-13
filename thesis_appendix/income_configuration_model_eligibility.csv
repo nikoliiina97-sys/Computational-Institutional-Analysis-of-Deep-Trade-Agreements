@@ -1,0 +1,10 @@
+Income configuration,Rows,Directed dyads,Families,Baseline rows,Smallest family cell,Estimated,Model sample sufficient
+High -> high,22770,1722,8,10864,108,TRUE,TRUE
+High -> middle,24759,2256,9,5262,54,TRUE,TRUE
+High -> low,2333,294,6,1176,22,TRUE,FALSE
+Middle -> high,24759,2256,9,5262,54,TRUE,TRUE
+Middle -> middle,39213,3481,7,28406,135,TRUE,TRUE
+Middle -> low,13724,1465,6,9165,34,TRUE,TRUE
+Low -> high,2333,294,6,1176,22,TRUE,FALSE
+Low -> middle,13724,1465,6,9165,34,TRUE,TRUE
+Low -> low,11524,1130,5,4168,8,TRUE,TRUE
