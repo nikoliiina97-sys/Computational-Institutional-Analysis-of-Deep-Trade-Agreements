@@ -1,0 +1,26 @@
+family_k9,index_name,lower_mean,higher_mean,absolute_mean_difference,lower_k10_family,higher_k10_family,policy_area,sub_area
+4,PP_DS,0,0.5833333333333333,0.5833333333333333,5,4,Public Procurement,PP_DS
+4,env_external_assist,0.1,0.5555555555555556,0.4555555555555556,4,5,Environmental Laws,env_external_assist
+4,PP_procedural_disciplines,0.04296296296296297,0.47333333333333333,0.43037037037037035,5,4,Public Procurement,PP_procedural_disciplines
+4,PP_Overview,0.12962962962962962,0.5583333333333333,0.4287037037037037,5,4,Public Procurement,PP_Overview
+4,PP_transparency,0,0.35104166666666664,0.35104166666666664,5,4,Public Procurement,PP_transparency
+4,TFC_fees,0.13580246913580246,0.39999999999999997,0.2641975308641975,5,4,Trade Facilitation and Customs,TFC_fees
+4,PP_new _issues,0.02777777777777777,0.29166666666666663,0.26388888888888884,5,4,Public Procurement,PP_new _issues
+4,labor_cooperation,0,0.25925925925925924,0.25925925925925924,4,5,Labor Market Regulations,labor_cooperation
+4,invest_DS,0.711111111111111,0.9629629629629629,0.2518518518518519,4,5,Investment,invest_DS
+4,CP_procedural_fairness,0.04938271604938271,0.3,0.2506172839506173,5,4,Competition Policy,CP_procedural_fairness
+4,labor_monitoring,0,0.2469135802469136,0.2469135802469136,4,5,Labor Market Regulations,labor_monitoring
+4,env_object,0.16,0.3851851851851852,0.22518518518518518,4,5,Environmental Laws,env_object
+4,invest_transparency,0.3416666666666667,0.5648148148148148,0.2231481481481481,4,5,Investment,invest_transparency
+4,serv_struc,0.4783950617283951,0.6722222222222223,0.1938271604938272,5,4,Services,serv_struc
+4,TBT_conformity_assess,0.09259259259259259,0.2833333333333333,0.19074074074074074,5,4,Technical Barriers to Trade (TBT),TBT_conformity_assess
+4,PP_non_discrim,0.013468013468013471,0.19393939393939394,0.18047138047138048,5,4,Public Procurement,PP_non_discrim
+4,export_admin_fee,0.14074074074074075,0.32,0.17925925925925926,5,4,Export Restrictions,export_admin_fee
+4,IPR_biodiversity_TK,0.055555555555555546,0.23333333333333328,0.17777777777777773,5,4,Intellectual Property Rights (IPR),IPR_biodiversity_TK
+4,IPR_treaty_incorporation,0.3827160493827161,0.5444444444444445,0.16172839506172842,5,4,Intellectual Property Rights (IPR),IPR_treaty_incorporation
+4,serv_market_access,0.5946502057613168,0.7537037037037037,0.15905349794238688,5,4,Services,serv_market_access
+4,PP_coverage,0.18518518518518517,0.33768115942028987,0.1524959742351047,5,4,Public Procurement,PP_coverage
+4,IPR_treaty_accession,0.04444444444444444,0.19555555555555554,0.15111111111111108,5,4,Intellectual Property Rights (IPR),IPR_treaty_accession
+4,IPR_NT,0.16666666666666666,0.31666666666666665,0.15,5,4,Intellectual Property Rights (IPR),IPR_NT
+4,IPR_transparency,0.14351851851851852,0.2875,0.14398148148148146,5,4,Intellectual Property Rights (IPR),IPR_transparency
+4,serv_other,0.35185185185185186,0.4954545454545454,0.14360269360269357,5,4,Services,serv_other

@@ -1,0 +1,45 @@
+Income configuration,Rank,Architecture family,Family rows,Coefficient (SE) vs baseline,Percent difference vs baseline,Model sample sufficient,Family cell >= 200,Estimate stable,Reportable estimate
+High -> high,1,Services / competition / mobility,346,1.730 (0.602),464.3%,TRUE,TRUE,TRUE,TRUE
+High -> high,2,Public procurement,1246,0.045 (0.354),4.6%,TRUE,TRUE,TRUE,TRUE
+High -> high,3,Minimalist,10864,0.000 (0.000),0.0%,TRUE,TRUE,TRUE,TRUE
+High -> high,4,Market access / enforcement,330,-0.226 (0.481),-20.3%,TRUE,TRUE,TRUE,TRUE
+High -> high,5,Goods-trade administration,3070,-0.332 (0.385),-28.2%,TRUE,TRUE,TRUE,TRUE
+High -> low,1,Services-investment / capital mobility,22,4.023 (1.460),5 487.7%,FALSE,FALSE,TRUE,FALSE
+High -> low,2,Services / competition / mobility,132,1.384 (0.428),299.2%,FALSE,FALSE,TRUE,FALSE
+High -> low,3,Minimalist,1176,0.000 (0.000),0.0%,FALSE,TRUE,TRUE,FALSE
+High -> low,4,Sustainable-development and regulatory integration,297,-0.417 (1.524),-34.1%,FALSE,TRUE,TRUE,FALSE
+High -> low,5,Goods-trade administration,635,-1.655 (0.841),-80.9%,FALSE,TRUE,TRUE,FALSE
+High -> middle,1,Trade facilitation / regulatory governance,315,0.881 (0.247),141.4%,TRUE,TRUE,TRUE,TRUE
+High -> middle,2,Goods-trade administration,7924,0.327 (0.353),38.7%,TRUE,TRUE,TRUE,TRUE
+High -> middle,3,Services-investment / capital mobility,379,0.325 (0.158),38.5%,TRUE,TRUE,TRUE,TRUE
+High -> middle,4,Minimalist,5262,0.000 (0.000),0.0%,TRUE,TRUE,TRUE,TRUE
+High -> middle,5,Public procurement,224,-0.356 (0.301),-30.0%,TRUE,TRUE,TRUE,TRUE
+Low -> high,1,Trade facilitation / regulatory governance,71,6.095 (1736218.810),44 273.4%,FALSE,FALSE,FALSE,FALSE
+Low -> high,2,Services / competition / mobility,132,2.714 (0.673),1 408.3%,FALSE,FALSE,TRUE,FALSE
+Low -> high,3,Sustainable-development and regulatory integration,297,2.361 (1.827),960.5%,FALSE,TRUE,TRUE,FALSE
+Low -> high,4,Goods-trade administration,635,1.163 (0.877),219.9%,FALSE,TRUE,TRUE,FALSE
+Low -> high,5,Services-investment / capital mobility,22,0.876 (1.214),140.1%,FALSE,FALSE,TRUE,FALSE
+Low -> low,1,Trade facilitation / regulatory governance,1356,19.310 (7590.925),24 331 367 855.1%,TRUE,TRUE,FALSE,FALSE
+Low -> low,2,Services / competition / mobility,3220,0.425 (0.483),53.0%,TRUE,TRUE,TRUE,TRUE
+Low -> low,3,Minimalist,4168,0.000 (0.000),0.0%,TRUE,TRUE,TRUE,TRUE
+Low -> low,4,Goods-trade administration,2772,-1.100 (0.524),-66.7%,TRUE,TRUE,TRUE,TRUE
+Low -> middle,1,Services / competition / mobility,1541,0.885 (0.715),142.2%,TRUE,TRUE,TRUE,TRUE
+Low -> middle,2,Goods-trade administration,657,0.795 (0.733),121.5%,TRUE,TRUE,TRUE,TRUE
+Low -> middle,3,Services-investment / capital mobility,78,0.282 (0.394),32.6%,TRUE,FALSE,TRUE,FALSE
+Low -> middle,4,Minimalist,9165,0.000 (0.000),0.0%,TRUE,TRUE,TRUE,TRUE
+Low -> middle,5,Sustainable-development and regulatory integration,34,-4.080 (1.661),-98.3%,TRUE,FALSE,TRUE,FALSE
+Middle -> high,1,Public procurement,224,0.896 (0.578),145.0%,TRUE,TRUE,TRUE,TRUE
+Middle -> high,2,Sustainable-development and regulatory integration,7425,0.581 (0.341),78.7%,TRUE,TRUE,TRUE,TRUE
+Middle -> high,3,Goods-trade administration,7924,0.513 (0.437),67.0%,TRUE,TRUE,TRUE,TRUE
+Middle -> high,4,Services / competition / mobility,2893,0.270 (0.372),30.9%,TRUE,TRUE,TRUE,TRUE
+Middle -> high,5,Trade facilitation / regulatory governance,315,0.023 (0.413),2.4%,TRUE,TRUE,TRUE,TRUE
+Middle -> low,1,Goods-trade administration,657,2.508 (0.675),1 128.4%,TRUE,TRUE,TRUE,TRUE
+Middle -> low,2,Services / competition / mobility,1541,1.406 (0.480),308.0%,TRUE,TRUE,TRUE,TRUE
+Middle -> low,3,Services-investment / capital mobility,78,0.907 (0.244),147.6%,TRUE,FALSE,TRUE,FALSE
+Middle -> low,4,Minimalist,9165,0.000 (0.000),0.0%,TRUE,TRUE,TRUE,TRUE
+Middle -> low,5,Trade facilitation / regulatory governance,2249,-1.043 (0.706),-64.8%,TRUE,TRUE,TRUE,TRUE
+Middle -> middle,1,Trade facilitation / regulatory governance,3138,1.491 (0.285),344.0%,TRUE,TRUE,TRUE,TRUE
+Middle -> middle,2,Services-investment / capital mobility,774,1.251 (0.191),249.3%,TRUE,TRUE,TRUE,TRUE
+Middle -> middle,3,Export liberalisation / compatibility,135,0.050 (0.291),5.1%,TRUE,FALSE,TRUE,FALSE
+Middle -> middle,4,Services / competition / mobility,3462,0.008 (0.303),0.8%,TRUE,TRUE,TRUE,TRUE
+Middle -> middle,5,Minimalist,28406,0.000 (0.000),0.0%,TRUE,TRUE,TRUE,TRUE
