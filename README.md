@@ -50,7 +50,7 @@ To reproduce the analysis:
 3. Open `DTA_Architecture_Analysis.Rmd`.
 4. Render the notebook from a clean R session.
 
-The R and package versions used for the final run are recorded in `replication_output/sessionInfo.txt`.
+The R and package versions used for the final run are recorded in `sessionInfo.txt`.
 
 ## Thesis
 
