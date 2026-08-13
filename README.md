@@ -15,10 +15,10 @@ The analysis constructs 116 sub-area institutional indices from the World Bank D
 - `documentation/`  
   Supporting documentation for index construction, provision mapping, recoding, and exclusion decisions.
 
-- `output/thesis_appendix/`  
+- `thesis_appendix/`  
   Outputs used in or referenced by the thesis appendices.
 
-- `output/replication_diagnostics/`  
+- `replication_diagnostics/`  
   Detailed family-by-index rankings, adjacent-cut diagnostics, clustering diagnostics, coverage checks, and supplementary analyses.
 
 - `sessionInfo.txt`  
